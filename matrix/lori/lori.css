@@ -13,7 +13,7 @@ background-image:url("'69db0f1a.png");
 #center1 {
     
     position: absolute;
-    margin-top: 2%;
+    top: 20%;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
